@@ -1,0 +1,30 @@
+.line_clamp_6 {
+    display:  -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.line_clamp_3{
+    display:  -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.line_clamp_4{
+    display:  -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.line_clamp_8{
+    display:  -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.line_clamp_25{
+    display:  -webkit-box;
+    -webkit-line-clamp: 25;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
